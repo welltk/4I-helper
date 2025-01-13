@@ -1,5 +1,5 @@
 # python-fourI-helper
-<h1 align="center" style="font-size: 200em;">fourI-helper</h1>
+<h1 align="center" style="font-size: 200em;">fourI-helper (GOE Toy Project 1)</h1>
 
 <p align="center">python을 이용한 4대보험 자료 취합 도우미</p>
 
