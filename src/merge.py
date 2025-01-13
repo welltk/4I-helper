@@ -340,7 +340,7 @@ class ErrorDialog(tk.Toplevel):
         close_button = ttk.Button(layout, text="닫기", command=self.destroy)
         close_button.pack()
 
-class fouri_merger(ttk.Frame):
+class merge(ttk.Frame):
     def __init__(self, parent=None, mappings=None):
         super().__init__(parent)
         if mappings is None:
@@ -1281,6 +1281,6 @@ class fouri_merger(ttk.Frame):
 
 if __name__ == '__main__':
     root = tk.Tk()
-    app = fouri_merger(root)
+    app = merge(root)
     app.pack(fill=tk.BOTH, expand=True)
     app.mainloop()
