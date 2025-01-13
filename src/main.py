@@ -8,11 +8,7 @@ from tkinter import ttk
 from ttkbootstrap import Style
 from PIL import Image, ImageTk
 import pyglet
-from fouri_merger import fouri_merger
-from fouri_autogen import fouri_autogen
-from fouri_autogen_pay import fouri_autogen_pay
-from fouri_help import Welcome_Page
-from fouri_help import Help_Page
+from merge import merge
 
 CURRENT_VERSION = "1.0.0"
 
@@ -198,7 +194,7 @@ class MainWindow(tk.Tk):
     def show_fouri_merger(self):
         self.geometry("1050x650")
         self.clear_content_area()
-        fouri_merger_page = fouri_merger(self.content_area)
+        fouri_merger_page = merge(self.content_area)
         fouri_merger_page.pack(fill=tk.BOTH, expand=True)
 
     def show_help(self):
