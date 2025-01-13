@@ -1,10 +1,10 @@
-# python-fourI-helper
+# 4I-helper
 <h1 align="center" style="font-size: 200em;">fourI-helper (GOE Toy Project 1)</h1>
 
 <p align="center">python을 이용한 4대보험 자료 취합 도우미</p>
 
 ## 개요
-fourI-helper는 급여대장 및 4대보험 자료를 자동으로 분류하고 취합하기 위해 만들어졌습니다.                                                   
+4I-helper는 급여대장 및 4대보험 자료를 자동으로 분류하고 취합하기 위해 만들어졌습니다.                                                   
 
 ## 빌드 및 사용법
 https://docs.github.com/en/actions/use-cases-and-examples/building-and-testing/building-and-testing-python
