@@ -7,7 +7,7 @@
 fourI-helper는 급여대장 및 4대보험 자료를 자동으로 분류하고 취합하기 위해 만들어졌습니다.                                                   
 
 ## 빌드 및 사용법
-[https://docs.github.com/en/actions/use-cases-and-examples/building-and-testing/building-and-testing-go](https://docs.github.com/en/actions/use-cases-and-examples/building-and-testing/building-and-testing-python)
+https://docs.github.com/en/actions/use-cases-and-examples/building-and-testing/building-and-testing-python
 
 ## 비고
 2024년 경기도교육청 학교행정개선 지원단 발굴 과제
